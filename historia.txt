@@ -1,2 +1,4 @@
-git  Esta es la vida de David Blanco
+ Esta es la vida de David Blanco
  Tiene 23 años y nacion en Venezuela, viviendo en todo el mundo .
+Master 1
+Mañana nos enfocaremos en su vida.
